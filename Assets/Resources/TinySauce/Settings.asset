@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gameAnalyticsIosGameKey: 
+  gameAnalyticsIosSecretKey: 
+  gameAnalyticsAndroidGameKey: a87b037dbc1f95b7f6759ecc33380dde
+  gameAnalyticsAndroidSecretKey: a9557f16fc0b6a86b9d40c29c3450286458e79b0
+  facebookAppId: 904295367605730
+  facebookClientToken: 092efbbb4cef34a71d814ffc94ba65ba
+  adjustIOSToken: 
+  adjustAndroidToken: gghh03ifof0g
+  EditorIdfa: a4a5af19-66f7-43d5-960d-17368030011e
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: 10MG
+  privacyPolicyURL: https://docs.google.com/document/d/11Bm_bpai6mPzMvI10cWZWmTF1b01pELicrMJc8QJBcY/edit?usp=share_link
+  developerContactEmail: kiliclarerdem@hotmail.com
